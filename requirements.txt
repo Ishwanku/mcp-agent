@@ -1,0 +1,6 @@
+langchain>=0.3.0
+langchain-community>=0.2.0
+mem0ai>=0.1.88
+chromadb>=0.4.24
+python-dotenv>=1.0.0
+ollama>=0.5.0

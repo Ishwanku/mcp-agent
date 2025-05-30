@@ -1,10 +1,10 @@
-# MCP Agent POC with Mem0 Integration
+# MCP Agent  with Mem0 Integration
 
-A Proof of Concept (POC) for an MCP Agent that integrates with a Model Context Protocol (MCP) server to provide AI agents with long-term memory capabilities using Mem0.
+A Proof of Concept for an MCP Agent that integrates with a Model Context Protocol (MCP) server to provide AI agents with long-term memory capabilities using Mem0.
 
 ## Overview
 
-This POC demonstrates an MCP Agent that connects to a simulated MCP server to store, retrieve, and search memories. It uses LangChain for agent orchestration and Mem0 with Chroma for memory management, following best practices from Anthropic's MCP framework.
+This  demonstrates an MCP Agent that connects to a simulated MCP server to store, retrieve, and search memories. It uses LangChain for agent orchestration and Mem0 with Chroma for memory management, following best practices from Anthropic's MCP framework.
 
 ## Features
 
